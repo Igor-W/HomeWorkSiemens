@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BILeG2K22puCl/fIPt4hcRcZNrSDy0EN0ic7BFoMX8sXKPtCxfsbxHPSiCYlI9uySXWsb2yPgyeyt3gTjisuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\HomeWorkSiemens\\HomeWorkSiemens\\HomeWorkSiemens.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.9\\microsoft.aspnetcore.spaproxy.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

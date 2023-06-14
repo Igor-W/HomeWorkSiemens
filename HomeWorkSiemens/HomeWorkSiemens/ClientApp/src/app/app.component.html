@@ -1,0 +1,13 @@
+<dx-tree-view
+  [createChildren]="createChildren"
+  dataStructure="plain"
+  rootValue=""
+  [expandNodesRecursive]="false"
+  [height]="500"
+  itemTemplate="itemTemplate"
+>
+  <div *dxTemplate="let itemObj of 'itemTemplate'">
+    <p>{{ itemObj.name }} <span *ngIf="itemObj.owner !== undefined">({{ itemObj.owner }})</span></p>
+
+  </div>
+</dx-tree-view>

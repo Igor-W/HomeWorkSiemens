@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "evgEGAK9VxN6x8JYHh64rM3SW4zhuQuJ8pIvcnzkaGI=",
+  "Source": "HomeWorkSiemens",
+  "BasePath": "_content/HomeWorkSiemens",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeWorkSiemens\\wwwroot",
+      "Source": "HomeWorkSiemens",
+      "ContentRoot": "C:\\Users\\Igor\\source\\repos\\HomeWorkSiemens\\HomeWorkSiemens\\wwwroot\\",
+      "BasePath": "_content/HomeWorkSiemens",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Igor\\source\\repos\\HomeWorkSiemens\\HomeWorkSiemens\\wwwroot\\favicon.ico",
+      "SourceId": "HomeWorkSiemens",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Igor\\source\\repos\\HomeWorkSiemens\\HomeWorkSiemens\\wwwroot\\",
+      "BasePath": "_content/HomeWorkSiemens",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
